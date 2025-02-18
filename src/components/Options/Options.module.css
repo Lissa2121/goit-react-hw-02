@@ -1,0 +1,15 @@
+.buttonOptions {
+    background-color: #ffc0cb;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background 0.3s ease;
+}
+
+.buttonOptions:hover, buttonOptions:focus {
+    background-color: #ffb8c6;
+}

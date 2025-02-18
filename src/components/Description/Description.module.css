@@ -1,0 +1,12 @@
+body {
+    align-items: flex-start;
+}
+
+.titleDescription {
+    font-size: 24px;
+}
+
+.textDescription {
+    color: #4b4b47;
+    font-size: 16px;
+}

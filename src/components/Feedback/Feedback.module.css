@@ -1,0 +1,11 @@
+.listFeedback {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.itemFeedback {
+    font-size: 18px;
+    color: #4b4b47;
+    margin: 5px 0;
+}
